@@ -1,0 +1,2 @@
+﻿"driver_id","user_name","user_phone","charge_address","car_model","car_number","status","requested_charge_amount","charging_reservation_time"
+"movecharger01","홍길동","01012341234","서울특별시 송파구 올림픽로 295, 17층","K5","123가1234","waiting",20,"2024-10-10 12:00"
